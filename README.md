@@ -1,2 +1,2 @@
-# 3D-programmering
- 
+# 3D-programming
+Repository for the 3D programming course
